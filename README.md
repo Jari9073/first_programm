@@ -1,1 +1,1 @@
-# my first_resposinatory
+# my first_repository
